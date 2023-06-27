@@ -1,7 +1,7 @@
 # js-master-guide
 Update Your JavaScript With Master Training Program for full stack developer
 
-# JavaScript Tutorial
+# 🦝 JavaScript Tutorial
 
 ## 🧑🏼‍🎓 javscript Module One
 

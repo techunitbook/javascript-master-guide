@@ -18,6 +18,21 @@
 
 <hr>
 
+### Example of script attribute .
+
+```
+<script src="app.js"></script>
+<script src="app.js" type="text/javascript"></script>
+<script src="module.js" type="module"></script>
+<script src="app.js" async></script>
+<script src="app.js" defer></script>
+<script src="app.js" integrity="sha384-hash"></script>
+<script src="app.js" crossorigin="anonymous"></script>
+```
+
+
+
+
 # 🦝 JavaScript Tutorial
 
 ## 🧑🏼‍🎓 javscript Module One
